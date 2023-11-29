@@ -1,6 +1,4 @@
-import React from 'react'
-
-function header() {
+function Header() {
     return (
         <div>
             <h1>Sean Finley</h1>
@@ -8,4 +6,4 @@ function header() {
     )
 }
 
-export default header
+export default Header
