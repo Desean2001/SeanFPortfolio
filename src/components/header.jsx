@@ -1,4 +1,5 @@
 import Nav from './Navigation';
+import { Outlet } from 'react-router-dom';
 
 function Header() {
     return (
