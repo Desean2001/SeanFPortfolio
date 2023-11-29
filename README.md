@@ -12,6 +12,6 @@ The contact page has a form to submit to send a message with your name and email
 
 github url: https://github.com/Desean2001/SeanFPortfolio.git
 
-netlify url: 
+netlify url: https://seanfportfolio.netlify.app/
 
 github username: desean2001
